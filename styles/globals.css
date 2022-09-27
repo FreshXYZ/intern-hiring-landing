@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply inline-flex items-center gap-2 border-2 border-black bg-[#FDC62D] py-2 px-4 font-mono text-xl font-bold text-black active:bg-[#FFBC00] disabled:cursor-not-allowed;
+}
+
+.card {
+  @apply border-2 border-black bg-white p-6 text-black;
+
+  box-shadow: 10px 10px 0px #fdc62d;
+}
