@@ -42,6 +42,17 @@ function MyApp({ Component, pageProps }: AppProps) {
           },
         ]}
         description="Hey future Freshies, ready to start your coding assignment? Here are a few things you need to know!"
+        openGraph={{
+          images: [
+            {
+              alt: 'Mockup',
+              height: 630,
+              type: 'image/jpeg',
+              url: 'https://internship.freshamplify.com/images/og-image.jpg',
+              width: 1200,
+            },
+          ],
+        }}
         title="Welcome to Fresh"
       />
       <Component {...pageProps} />
