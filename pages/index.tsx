@@ -423,7 +423,7 @@ const Home: NextPage = () => {
             style={{ WebkitTextStrokeColor: 'white', WebkitTextStrokeWidth: 3 }}
           >
             <div className="relative">
-              <span className="relative z-20">FRESH</span>
+              <span className="relative z-20">INVESTOR HUB</span>
               <svg
                 className="absolute bottom-0 left-0 z-10 w-20 translate-y-1/2 -translate-x-1/2 lg:w-52"
                 viewBox="0 0 225 192"
@@ -461,7 +461,7 @@ const Home: NextPage = () => {
             </div>
           </div>
           <p className="mt-28 text-center lg:mt-52 lg:text-2xl">
-            Hey future Freshies, ready to start your coding assignment?
+            Hey future Hubbers, ready to start your coding assignment?
             <br />
             Here are a few things you need to know!
           </p>
