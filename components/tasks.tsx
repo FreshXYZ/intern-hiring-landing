@@ -21,7 +21,7 @@ const Tasks: React.ComponentType = () => {
           TASK 1
         </div>
         <p className="mt-2">
-          Build a basic log-in page with the design provided by Fresh.
+          Build a basic log-in page with the design provided by Investor Hub.
         </p>
         <div className="relative mt-2 overflow-hidden rounded-lg pt-[75%]">
           <Image alt="Mockup" layout="fill" objectFit="cover" src={mockup} />
