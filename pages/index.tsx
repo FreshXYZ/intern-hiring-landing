@@ -419,7 +419,7 @@ const Home: NextPage = () => {
             <span>TO</span>
           </div>
           <div
-            className="-mt-4 flex items-center justify-center font-mono text-[84px] font-bold leading-none text-transparent lg:-mt-12 lg:text-[200px]"
+            className="-mt-4 flex items-center justify-center font-mono text-[84px] font-bold leading-none text-center text-transparent lg:-mt-12 lg:text-[150px]"
             style={{ WebkitTextStrokeColor: 'white', WebkitTextStrokeWidth: 3 }}
           >
             <div className="relative">
