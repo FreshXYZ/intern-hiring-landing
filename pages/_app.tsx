@@ -41,7 +41,7 @@ function MyApp({ Component, pageProps }: AppProps) {
             rel: 'webmanifest',
           },
         ]}
-        description="Hey future Freshies, ready to start your coding assignment? Here are a few things you need to know!"
+        description="Hey future Hubbers, ready to start your coding assignment? Here are a few things you need to know!"
         openGraph={{
           images: [
             {
@@ -53,7 +53,7 @@ function MyApp({ Component, pageProps }: AppProps) {
             },
           ],
         }}
-        title="Welcome to Fresh"
+        title="Welcome to Investor Hub"
       />
       <Component {...pageProps} />
       <Toaster />
