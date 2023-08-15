@@ -254,7 +254,7 @@ const Home: NextPage = () => {
               </div>
               <a
                 className="btn mt-6"
-                href="https://github.com/FreshXYZ/hiring-intern"
+                href="https://github.com/FreshXYZ/intern-hiring-landing"
                 rel="noopener noreferrer"
                 target="_blank"
               >
@@ -289,7 +289,7 @@ const Home: NextPage = () => {
               </div>
               <a
                 className="btn mt-6"
-                href="https://www.figma.com/file/x8bsnfDnTVRqW8mvSPZKYx/Fresh-Engineering-Intern?node-id=0%3A1"
+                href="https://www.figma.com/file/x8bsnfDnTVRqW8mvSPZKYx/InvestorHub-Engineering-Intern?type=design&node-id=0-1&mode=design&t=QBqMmiBBPig4Yd7h-0"
                 rel="noopener noreferrer"
                 target="_blank"
               >
@@ -419,7 +419,7 @@ const Home: NextPage = () => {
             <span>TO</span>
           </div>
           <div
-            className="-mt-4 flex items-center justify-center font-mono text-[84px] font-bold leading-none text-center text-transparent lg:-mt-12 lg:text-[150px]"
+            className="-mt-4 flex items-center justify-center text-center font-mono text-[84px] font-bold leading-none text-transparent lg:-mt-12 lg:text-[150px]"
             style={{ WebkitTextStrokeColor: 'white', WebkitTextStrokeWidth: 3 }}
           >
             <div className="relative">
