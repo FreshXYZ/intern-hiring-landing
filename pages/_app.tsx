@@ -48,7 +48,7 @@ function MyApp({ Component, pageProps }: AppProps) {
               alt: 'Mockup',
               height: 630,
               type: 'image/jpeg',
-              url: 'https://internship.freshamplify.com/images/og-image.jpg',
+              url: 'https://internship.investorhub.com/images/og-image.jpg',
               width: 1200,
             },
           ],
