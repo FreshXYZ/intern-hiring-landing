@@ -254,7 +254,7 @@ const Home: NextPage = () => {
               </div>
               <a
                 className="btn mt-6"
-                href="https://github.com/FreshXYZ/intern-hiring-landing"
+                href="https://github.com/FreshXYZ/hiring-intern"
                 rel="noopener noreferrer"
                 target="_blank"
               >
